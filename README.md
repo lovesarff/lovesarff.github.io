@@ -9,14 +9,17 @@ dawdwadwadwwda
 
 
 dwdwadwa
+dwadwa
+fawfadwa
+ddwadw
 
 
 
 <script src="https://giscus.app/client.js"
-        data-repo="lovesarff/test-giscus"
-        data-repo-id="R_kgDOKrRFOg"
+        data-repo="lovesarff/testgiscus"
+        data-repo-id="R_kgDOKrR2Vg"
         data-category="Announcements"
-        data-category-id="DIC_kwDOKrRFOs4Ca0S6"
+        data-category-id="DIC_kwDOKrR2Vs4Ca0Vd"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
